@@ -1,0 +1,120 @@
+*{
+			margin: 0;
+			padding: 0;
+}
+.container{
+				background-color: bisque;
+				font-family: fantasy;
+				padding: 20px;
+}
+.header-image{
+				width: 100px;
+				height: 110px;
+				border: 3px solid teal;
+				border-radius: 100%;
+				float: left;
+}
+h1,h3,h2,h4{
+				color: chocolate;
+}
+.bio{
+				float: left;
+				padding: 15px;
+}
+.contact{
+				float:right;
+				padding: 5px;
+				line-height: 30px;
+}
+.contact a{
+				text-decoration: none;
+				color: green;
+				font-weight: bold;
+
+}
+.contact a:hover{
+				text-decoration: underline;
+				color:tomato;
+}
+.close-float{
+				clear: both;
+}
+hr{
+height: 100%;
+margin: 20px auto;
+				border:red solid 3px;
+				border-radius: 3px;
+}
+.personal-info{
+				padding: 15px;
+}
+.pi1{
+float: left;
+width:40%;
+}
+.pi2{
+font-weight: bold;
+line-height:30px;
+padding: 5px;
+				float: right;
+				width:60%;
+}
+.nexthr{
+				height: 100%;
+margin: 20px auto;
+				border:black solid 2px;
+				border-radius: 2px;
+				
+}
+.we1{
+float: left;
+width: 40%;
+padding: 15px;
+}
+.we2{
+font-weight: bold;
+line-height:30px;
+padding: 5px;
+				float: right;
+				width:60%;
+}
+
+.edu1{
+float: left;
+width: 40%;
+padding: 15px;
+}
+.edu2{
+font-weight: bold;
+line-height:30px;
+padding: 5px;
+				float: right;
+				width:60%;
+				
+}
+footer{
+				background: teal;
+				border-radius: 5px;
+				padding:15px;
+				font-weight: bold;
+				color:gold;
+				text-align: center;
+}
+.footer1{
+				word-spacing: 20px;
+}
+.footer1 a:link{
+				color:wheat;
+				text-decoration: none;
+}
+.footer1 a:visited{
+				color:black;
+}
+.footer1 a:hover{
+				color:blue;
+				text-decoration: underline;
+}
+.footer2{
+				margin-top: 10px;
+				color:ghostwhite
+}
